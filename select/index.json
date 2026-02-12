@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Chururi",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-12T15:11:12.008161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chururi",
+      "artist": "yuzu",
+      "has_synced": true,
+      "path": "select/01_Chururi_yuzu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chururi",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/02_Chururi_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chururi (feat. Takako Matsu)",
+      "artist": "yuzu",
+      "has_synced": true,
+      "path": "select/03_Chururi_(feat._Takako_Matsu)_yuzu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chururi (feat. 松 たか子)",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/04_Chururi_(feat._松_たか子)_YUZU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chururi",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_Chururi_ゆず.txt"
+    }
+  ]
+}
